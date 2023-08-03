@@ -19,6 +19,9 @@ $$\dot\mu_r=\mu_r\frac{2j_1(z)}{j_1(z)+zj_1'(z)}=\mu\frac{2(z-\tan{z})}{(1-z^2)\
 where $z=ka=a\sqrt{-j\omega\sigma\mu}$, $J_n(z)$ is the n-th order Bessel function of the first kind, and $j_n(z)$ is the n-th order spherical Bessel function of the first kind.
 
 ## Plotting
+### Plate
 ![plate](https://github.com/ShingoHiruma/Ollendorff_formula/assets/49121385/33b47732-858f-4be1-8892-27ee018c038c)
+### Cylinder
 ![cylinder](https://github.com/ShingoHiruma/Ollendorff_formula/assets/49121385/76e22762-c58a-42f8-abfe-7a812de179a5)
+### Sphere
 ![sphere](https://github.com/ShingoHiruma/Ollendorff_formula/assets/49121385/c6950dff-e67d-4c3e-b103-459abcf6434c)
