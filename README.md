@@ -8,7 +8,7 @@ $$\langle\dot\mu_r\rangle=1+\frac{\eta(\dot\mu_r -1)}{1+N(1-\eta)(\dot\mu_r-1)} 
 where $\dot\mu_r, N, \eta,$ are the complex permeability, diamagnetic constant, and the filling factor. 
 Since the complex permeability $\dot\mu_r$ can be obtained analytically by solving the Maxwell equations, the method using the extended Ollendorff formula is classified as the semi-analytical method.
 
-## List of complex permeability
+## List of analytical expression of complex permeability
 ### Plate
 $$\dot\mu_r=\mu_r \frac{\tan{z}}{z}$$
 ### Cylinder
