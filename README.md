@@ -6,7 +6,7 @@
 The extended Ollendorff formula is used to obtain the macroscopic complex permeability of the composite materials, which is given by
 $$\langle\dot\mu_r\rangle=1+\frac{\eta(\dot\mu_r -1)}{1+N(1-\eta)(\dot\mu_r-1)} $$
 where $\dot\mu_r, N, \eta,$ are the complex permeability, diamagnetic constant, and the filling factor. 
-Since the complex permeability $\dot\mu_r$ can be obtained analytically by solving the Maxwell equation, the method using the extended Ollendorff formula is classified as the semi-analytical method.
+Since the complex permeability $\dot\mu_r$ can be obtained analytically by solving the Maxwell equations, the method using the extended Ollendorff formula is classified as the semi-analytical method.
 
 ## List of complex permeability
 ### Plate
