@@ -1,4 +1,4 @@
-# Ollendorff_formula
+# Ollendorff-formula
 ## Homogenization method in numerical electromagnetism
 <img src="https://github.com/ShingoHiruma/Ollendorff_formula/assets/49121385/1049528b-7416-4a09-9798-0391a8d95220" width="50%">
 
